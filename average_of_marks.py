@@ -2,7 +2,7 @@
 
 # Created by: Jaeyoon (Jay) Lee
 # Created on: Dec 2019
-# This program ...
+# This program finds the average of marks
 
 
 def main():
